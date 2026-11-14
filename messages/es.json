@@ -1,10 +1,29 @@
 {
-  "Landing": {
-    "explore": "Explorar oportunidades",
-    "eyebrow": "Fondos con evidencia",
-    "fund": "Financiar un proyecto",
-    "headline": "Que cada promesa deje huella.",
-    "statement": "Backmint ayuda a las organizaciones a financiar trabajo significativo con acuerdos claros, revisión humana y evidencia en cada hito.",
-    "testnet": "NEAR testnet"
+  "Dashboard": {
+    "activeAgreements": "Acuerdos activos",
+    "availableToDeploy": "Disponible para asignar",
+    "capitalFlow": "Flujo de capital",
+    "confirmed": "Confirmado",
+    "dashboard": "Panel",
+    "deposited": "Depositado",
+    "escrowBalance": "Saldo en escrow",
+    "fundingHealth": "Salud de fondos",
+    "fundingPipeline": "Pipeline de fondos",
+    "inReview": "En revisión",
+    "latestActivity": "Actividad reciente",
+    "menu": "Espacio de trabajo",
+    "milestones": "Hitos",
+    "openOpportunities": "Nueva oportunidad",
+    "organization": "Fundación Northstar",
+    "overview": "Resumen de organización",
+    "pendingRelease": "Liberación pendiente",
+    "projects": "Proyectos",
+    "reports": "Reportes",
+    "search": "Buscar",
+    "settings": "Configuración",
+    "testnet": "NEAR testnet",
+    "thisMonth": "Depósitos confirmados en acuerdos activos",
+    "totalCommitted": "Total comprometido",
+    "transactionHistory": "Actividad de acuerdos"
   }
 }

@@ -1,15 +1,20 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f2f1ea;
-  --foreground: #14201d;
-  --surface: #fffef8;
-  --forest: #163b33;
-  --mint: #b9f1c5;
-  --coral: #ef6c4a;
-  --line: #b7c0b4;
+  --background: #070b14;
+  --foreground: #f3f7ff;
+  --surface: #0d1320;
+  --surface-raised: #121a2a;
+  --surface-hover: #172237;
+  --line: #27344b;
+  --muted: #8d9bb2;
+  --accent: #a3ff6f;
+  --accent-ink: #11220a;
+  --info: #7bb4ff;
+  --warning: #ffc65a;
+  --danger: #ff7f87;
   --font-body: "Avenir Next", "Helvetica Neue", sans-serif;
-  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --font-display: "Avenir Next Condensed", "Arial Narrow", sans-serif;
 }
 
 @theme inline {
@@ -26,6 +31,6 @@ body {
 }
 
 ::selection {
-  background: var(--mint);
-  color: var(--forest);
+  background: var(--accent);
+  color: var(--accent-ink);
 }

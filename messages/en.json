@@ -1,10 +1,29 @@
 {
-  "Landing": {
-    "explore": "Explore opportunities",
-    "eyebrow": "Funding with proof",
-    "fund": "Fund a project",
-    "headline": "Make every promise traceable.",
-    "statement": "Backmint helps organizations fund meaningful work with clear agreements, human review and evidence at every milestone.",
-    "testnet": "NEAR testnet"
+  "Dashboard": {
+    "activeAgreements": "Active agreements",
+    "availableToDeploy": "Available to deploy",
+    "capitalFlow": "Capital flow",
+    "confirmed": "Confirmed",
+    "dashboard": "Dashboard",
+    "deposited": "Deposited",
+    "escrowBalance": "Escrow balance",
+    "fundingHealth": "Funding health",
+    "fundingPipeline": "Funding pipeline",
+    "inReview": "In review",
+    "latestActivity": "Latest activity",
+    "menu": "Workspace",
+    "milestones": "Milestones",
+    "openOpportunities": "Open opportunity",
+    "organization": "Northstar Foundation",
+    "overview": "Organization overview",
+    "pendingRelease": "Pending release",
+    "projects": "Projects",
+    "reports": "Reports",
+    "search": "Search",
+    "settings": "Settings",
+    "testnet": "NEAR testnet",
+    "thisMonth": "Confirmed deposits across active agreements",
+    "totalCommitted": "Total committed",
+    "transactionHistory": "Agreement activity"
   }
 }
